@@ -26,3 +26,4 @@ plus10
 final <- plus10[c(TRUE, FALSE)]
 final
 
+
